@@ -11,7 +11,7 @@ export const books = [
     },
     {
       id: 3,
-      author: "Fontanarrosa",
+      author: "Fontanarrosas",
       title: "El área 18",
     },
   ];
